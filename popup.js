@@ -1,4 +1,3 @@
-// popup.js
 document.addEventListener('DOMContentLoaded', function() {
   const summarizeButton = document.getElementById('summarize');
   if (summarizeButton) {
